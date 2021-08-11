@@ -1,0 +1,18 @@
+.timer-wrapper {
+	margin-top: 15%;
+
+	display: flex;
+	justify-content: center;
+}
+
+.minutes {
+	/* margin: 0px auto;
+	display: inline-block; */
+	margin-right: 30px;
+}
+
+.seconds {
+	/* margin: 0px auto;
+	display: inline-block; */
+	margin-left: 30px;
+}
